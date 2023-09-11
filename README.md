@@ -1,16 +1,17 @@
-# knot
+# 프로젝트 개요
 
-A new Flutter project.
+## 프로젝트 명
+놑[Knot]
 
-## Getting Started
+## 프로젝트 주제
+ 청각장애인을 위한 노트 필기 앱
+ 평소에 유료로 사용했던 Notability와 같은 노트 필기 애플리케이션을 무료로 사용할 있도록 한다.
 
-This project is a starting point for a Flutter application.
+## 프로젝트 설명
+ 음성 인식 기능을 탑재한 노트 필기 어플리케이션을 개발한다.
+ 음성을 실시간 텍스토로 변환하여 음성,필기와 함께 저장한다.
+ 저장된 음성, 필기, 텍스트를 서버에 저장한다.
+ 서버에 저장된 데이터를 불러온다.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ # 위키
+ http://cscp2.sogang.ac.kr/CSE4186/index.php/%EC%BF%A0%EB%AA%A8%EC%BF%A0%EB%AA%A8
